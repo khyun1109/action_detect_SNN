@@ -5,9 +5,9 @@ Designed for low-power environments such as smartphones.
 
 ---
 
-## 🗂️ Project Structure
+## 📂 Project Structure
 
-```bash
+```
 .
 ├── data/                      # Sensor data
 ├── figures/                   # Plots & visualizations
@@ -18,6 +18,9 @@ Designed for low-power environments such as smartphones.
 ├── visualize_distribution.py  # Label distribution plot
 ├── label_gui.py               # GUI tool for time-range labeling
 └── ...
+```
+
+---
 
 ## 🚀 Quick Start
 
@@ -26,18 +29,37 @@ Designed for low-power environments such as smartphones.
 ```bash
 git clone https://github.com/khyun1109/action_detect_SNN.git
 cd action_detect_SNN
+```
 
 ### 2. Install dependencies
+
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run Training
+
 ```bash
 python train.py
+```
 
-### For more Detail
-[👉 Notion Link](https://exclusive-molecule-e71.notion.site/Samsung-MX-HCI-paper-1ced2cb728f0800aaa9ee16a0b80c5a8?pvs=4)
+---
 
+## 📘 For more detail
 
+[👉 Notion Link](https://exclusive-molecule-e71.notion.site/Samsung-MX-HCI-paper-1ced2cb728f08...)
 
+---
 
+## 🧩 Features
+
+- ✅ Gesture classification using SNN
+- ✅ 6-axis sensor preprocessing
+- ✅ Time-range labeling tool with GUI
+- ✅ Compact model for mobile deployment
+
+---
+
+## 📜 License
+
+MIT License
