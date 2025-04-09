@@ -47,7 +47,7 @@ python train.py
 
 ## 📘 For more detail
 
-[👉 Notion Link](https://exclusive-molecule-e71.notion.site/Samsung-MX-HCI-paper-1ced2cb728f08...)
+[👉 Notion Link](https://exclusive-molecule-e71.notion.site/Samsung-MX-HCI-paper-1ced2cb728f0800aaa9ee16a0b80c5a8?pvs=4)
 
 ---
 
